@@ -1,12 +1,12 @@
 <!-- Replace the links below with actual image URLs -->
 <p align="center">
-  <img src="assets/logo.png" alt="Rashn Logo" width="150" />
+  <img src="Assets/logo.png" alt="Rashn Logo" width="150" />
 </p>
 
 <h1 align="center">🥬 Rashn – Smart Grocery Subscription App</h1>
 
 <p align="center">
-  <img src="assets/header.png" alt="Rashn Header" />
+  <img src="Assets/poster-ar.png" alt="Rashn Header" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ This space contains general information, designs, and documentation about the pr
 It offers users a seamless way to receive their essential food and household items on a recurring basis — weekly, biweekly, or monthly — straight from trusted local farms and suppliers.
 
 <p align="center">
-  <img src="assets/poster.png" alt="Rashn App Poster" />
+  <img src="Assets/poster-en.png" alt="Rashn App Poster" />
 </p>
 
 ---
