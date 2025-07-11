@@ -66,11 +66,11 @@ It offers users a seamless way to receive their essential food and household ite
 
 ## 💼 Tech Stack
 
-- **Frontend:** React Native / Flutter *(App)*
-- **Backend:** Node.js / Firebase / Supabase *(Confirm as needed)*
+- **Frontend:** React Native / Expo *(App)*
+- **Backend:** Node.js / Supabase *(Confirm as needed)*
 - **Database:** PostgreSQL
 - **Deployment:** Docker + Cloud Hosting
-- **Notifications:** Twilio / Firebase Cloud Messaging
+- **Notifications:** Twilio / Supabase Messaging
 - **Payment Gateway:** Paymob
 
 ---
