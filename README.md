@@ -95,7 +95,7 @@ For early collaboration or technical discussions, feel free to reach out.
 For questions or partnership inquiries:
 
 - 📩 **Email:** [admin@asulstartups.com](mailto:admin@asulstartups.com)
-- 🌐 **Website:** [https://rashnmena.wordpress.com](https://rashn.app)
+- 🌐 **Website:** [https://rashn.app](https://rashn.app)
 
 ---
 
